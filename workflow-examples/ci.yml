@@ -5,7 +5,7 @@ on:
         branches:
             - main
         paths:
-            - 'check-docker/**'
+            - 'check-docker/**'       
     workflow_dispatch:
 
 jobs:
